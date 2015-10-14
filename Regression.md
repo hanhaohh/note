@@ -6,4 +6,4 @@
 
 There are two regression analysis here:
 
-![regression.jpg](regression.jpg =600x400) 
+<img src="regression.jpg" align="left" height="500" width="500" >
