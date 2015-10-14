@@ -2,7 +2,7 @@
 
 ###R square only how much variance you have found.
 
-**For example **
+*For example *
 
 There are two regression analysis here, we generate them with same coefficients, the only difference is the error has different variance. 
 
@@ -28,4 +28,4 @@ ivregress 2sls y (x1=z)
 ```
 <img src="regression.jpg" align="left"  >
 
-**So the R square only tell us how much variance we have caught, only how we explain the model **
+*So the R square only tell us how much variance we have caught, only how we explain the model *
