@@ -28,4 +28,4 @@ ivregress 2sls y (x1=z)
 ```
 <img src="regression.jpg" align="left"  >
 
-pdf
+### So the R square only tell us how much variance we have caught, only how we explain the model 
