@@ -1,7 +1,7 @@
 #R-Square 
 
 ###R square only how much variance you have found. 
-$$$sdfsadf$$$
+$$sdfsadf$$
 
 *For example*
 
