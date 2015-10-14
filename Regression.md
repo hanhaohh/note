@@ -10,6 +10,7 @@ There are two regression analysis here, we generate them with same coefficients,
 <img src="regression.jpg" align="left"  >
 
 
+---
 
 
 `set obs 1000
