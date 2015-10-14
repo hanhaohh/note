@@ -27,3 +27,5 @@ reg y x1
 ivregress 2sls y (x1=z)
 ```
 <img src="regression.jpg" align="left"  >
+
+pdf
