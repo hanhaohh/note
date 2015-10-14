@@ -1,7 +1,7 @@
 #R-Square 
 
 ###R square only how much variance you have found. 
-$$sdfsadf$$
+**Total Variance of Y = Variance explained by model + Variance not explained by model**
 
 *For example*
 
