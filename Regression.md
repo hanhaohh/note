@@ -11,12 +11,17 @@ There are two regression analysis here, we generate them with same coefficients,
 
 
 ---
+---
 
 
 `set obs 1000
+
 gen z=rnormal(0,1)
+
 gen z2=rnormal(0,1)
-gen x1=z+z2
+
+gen x1=z+z2`
+
 gen x2=z2+rnormal(0,1)
 gen y=-1*x1+2*x2+rnormal(0,1)
 gen y2=-1*x1+2*x2+3*rnormal(0,1)
