@@ -2,8 +2,23 @@
 
 ###R square only how much variance you have found.
 
-***For example ***
+**For example **
 
-There are two regression analysis here:
+There are two regression analysis here, we generate them with same coefficients, the only difference is the error has different variance. 
+
 
 <img src="regression.jpg" align="left" height="500" width="500" >
+
+
+sdfsdfsadf
+sdfsdf
+sdfsadf
+pdf
+asdf
+pdf
+asdfsadf
+pdf
+asdf
+said
+said
+sad
