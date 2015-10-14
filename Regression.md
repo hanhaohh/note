@@ -7,20 +7,13 @@
 There are two regression analysis here, we generate them with same coefficients, the only difference is the error has different variance. 
 
 
-<img src="regression.jpg" align="left"  >
 
 
----
----
-
-
-`set obs 1000
-
-gen z=rnormal(0,1)
-
+```
+set obs 1000  gen z=rnormal(0,1)
 gen z2=rnormal(0,1)
 
-gen x1=z+z2`
+gen x1=z+z2
 
 gen x2=z2+rnormal(0,1)
 gen y=-1*x1+2*x2+rnormal(0,1)
@@ -32,4 +25,5 @@ reg y x1 x2
 reg yp x1 x2
 reg y x1
 ivregress 2sls y (x1=z)
-`
+```
+<img src="regression.jpg" align="left"  >
