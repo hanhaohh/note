@@ -28,4 +28,4 @@ ivregress 2sls y (x1=z)
 ```
 <img src="regression.jpg" align="left"  >
 
-*So the R square only tell us how much variance we have caught, only how we explain the model*
+The R-square for first model is **0.86** but the second model is only **0.40**, even though they have the same model when we build them. So the R square only tell us how much variance we have caught, only how we explain the model
